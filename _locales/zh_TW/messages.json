@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "免登入看粉專",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "要看粉專不用再登入了！",
+    "description": "Description of the extension."
+  }
+}

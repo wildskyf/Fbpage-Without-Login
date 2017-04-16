@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Fbpage-Without-Login",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Don't bother me browsering page on Facebook.",
+    "description": "Description of the extension."
+  }
+}
