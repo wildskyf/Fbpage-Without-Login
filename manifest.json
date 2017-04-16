@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Fbpage-Without-Login",
   "description": "Don't bother me browsering page on Facebook.",
 
@@ -8,6 +8,10 @@
       "id": "@page_no_login",
       "strict_min_version": "48.0"
     }
+  },
+
+  "icons": {
+    "48": "icon 48x48.png"
   },
 
   "content_scripts": [
